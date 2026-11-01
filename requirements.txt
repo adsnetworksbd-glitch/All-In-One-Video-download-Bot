@@ -5,5 +5,5 @@ yt-dlp>=2025.02.19
 pydantic==2.10.6
 pydantic-settings==2.8.1
 python-dotenv==1.0.1
-aiohttp==3.11.12
-yarl==1.18.5
+aiohttp>=3.10.0
+yarl>=1.18.0
